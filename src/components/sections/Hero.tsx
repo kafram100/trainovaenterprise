@@ -52,7 +52,7 @@ export function Hero() {
           </div>
 
           <AnimateIn variant="scale-in" delay={200} duration={700}>
-            <div className="relative hidden lg:block">
+            <div className="relative">
               <div className="relative animate-[float_6s_ease-in-out_infinite]">
                 <ImageSlideshow />
               </div>

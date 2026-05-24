@@ -70,6 +70,7 @@ export function SectionProvider({ children }: { children: ReactNode }) {
       const hash = entry[0];
       window.history.pushState(null, "", hash || "/");
       setSectionState(s);
+      window.scrollTo({ top: 0, behavior: "instant" });
     }
   }, []);
 

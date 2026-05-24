@@ -16,7 +16,7 @@ export function useInView(options?: IntersectionObserverInit) {
           observer.unobserve(el);
         }
       },
-      { threshold: 0.1, ...options }
+      { threshold: 0, rootMargin: "50px", ...options }
     );
     observer.observe(el);
     return () => observer.disconnect();

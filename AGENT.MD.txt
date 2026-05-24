@@ -1,0 +1,365 @@
+# AGENT.md
+
+# Trainova Enterprise Web Platform
+
+## Project Overview
+
+Trainova Enterprise is a modern educational technology ecosystem focused on building intelligent digital infrastructure for education across Africa.
+
+The platform combines:
+- educational software
+- school infrastructure systems
+- AI-powered assessment platforms
+- educational media
+- practical technology training
+
+The system must feel:
+- modern
+- minimal
+- scalable
+- premium
+- educational
+- intelligent
+
+This is NOT a generic corporate website.
+
+The platform should communicate:
+> “Trainova is building the future infrastructure of education in Africa.”
+
+---
+
+# Brand Meaning
+
+Trainova = Training + Innovation
+
+Official tagline:
+> “Training People to Innovate.”
+
+---
+
+# Core Products
+
+## 1. School Operating System (OS)
+
+Smart school infrastructure system.
+
+### Features
+- student management
+- attendance
+- report cards
+- fees management
+- communication
+- analytics
+
+---
+
+## 2. Novagrade.ai
+
+AI-powered lecturer assessment platform.
+
+### Features
+- CBT exams
+- AI grading
+- assignments
+- quizzes
+- analytics
+- result processing
+
+---
+
+## 3. Smart Timetable
+
+Intelligent timetable generation system.
+
+### Features
+- clash prevention
+- teacher allocation
+- auto scheduling
+- export & printing
+
+---
+
+## 4. Trainova EdTech
+
+Technology learning ecosystem.
+
+### Courses
+- Graphic Design + AI
+- Frontend Development + AI
+- WordPress Development
+- UI/UX Design + AI
+
+---
+
+## 5. Trainova Campus
+
+Educational media and student resource platform.
+
+### Content
+- campus updates
+- scholarships
+- opportunities
+- educational news
+
+---
+
+# Design System
+
+## Design Philosophy
+
+The interface must be:
+- minimal
+- modern
+- fast
+- clean
+- educational
+- responsive
+- elegant
+
+Avoid:
+- clutter
+- excessive gradients
+- old-school layouts
+- overly colorful UI
+- crowded sections
+
+---
+
+# UI Style
+
+Preferred UI direction:
+- Apple-inspired spacing
+- modern SaaS layout
+- soft shadows
+- subtle glassmorphism only when necessary
+- rounded corners
+- large typography
+- dashboard-style sections
+- modern cards
+- smooth animations
+
+---
+
+# Typography
+
+## Headings
+- Poppins
+- Sora
+
+## Body
+- Inter
+
+---
+
+# Theme & Color System
+
+Color tokens, theme variables, and design tokens will be provided separately.
+
+DO NOT hardcode colors in components.
+
+Use:
+- CSS variables
+- theme tokens
+- reusable design tokens
+- centralized theming architecture
+
+The design system must support:
+- easy rebranding
+- theme scalability
+- future dark/light modes
+
+---
+
+# Homepage Requirements
+
+The homepage should contain:
+
+1. Hero section
+2. Trusted institutions section
+3. Solutions overview
+4. Product showcase
+5. Why Trainova
+6. Statistics section
+7. Testimonials
+8. Final CTA
+9. Footer
+
+---
+
+# Hero Section Rules
+
+Hero section must:
+- immediately explain what Trainova does
+- include dashboard visuals
+- contain strong CTA buttons
+- feel premium and futuristic
+
+Main headline:
+> “Building Smarter Education Systems for Africa.”
+
+---
+
+# Product Card Rules
+
+Each product card must contain:
+- product name
+- short description
+- feature preview
+- CTA button
+- clean iconography
+
+---
+
+# Animation Rules
+
+Use subtle animations only.
+
+Preferred:
+- fade-in
+- slide-up
+- hover transitions
+- smooth counters
+
+Avoid:
+- excessive motion
+- distracting animations
+- flashy transitions
+
+---
+
+# Responsiveness
+
+The platform must be:
+- mobile-first
+- tablet optimized
+- desktop optimized
+
+Priority:
+Most users will access the platform using mobile devices.
+
+---
+
+# SEO Rules
+
+Every page must:
+- have metadata
+- optimized headings
+- semantic HTML
+- fast loading speed
+- structured content
+
+Target keywords:
+- school management system Ghana
+- educational software Ghana
+- lecturer assessment system
+- timetable software Ghana
+- AI grading platform
+- EdTech Ghana
+
+---
+
+# Accessibility
+
+The platform should:
+- maintain proper contrast
+- use accessible typography
+- support keyboard navigation
+- use semantic elements
+
+---
+
+# Technical Stack
+
+## Preferred Stack
+
+### Frontend
+- Next.js
+- TailwindCSS
+
+### Backend
+- Laravel
+
+### Database
+- PostgreSQL
+---
+
+# Component Guidelines
+
+Create reusable components for:
+- buttons
+- cards
+- statistics
+- testimonials
+- dashboards
+- forms
+- CTAs
+- product showcases
+
+---
+
+# Performance Rules
+
+The platform should:
+- load fast
+- use optimized images
+- lazy load media
+- minimize JS bundle size
+
+---
+
+# Marketing Direction
+
+The platform should market:
+- transformation
+- automation
+- productivity
+- innovation
+- simplicity
+
+DO NOT market features only.
+
+Always focus on:
+- solving educational problems
+- saving time
+- reducing stress
+- improving institutional efficiency
+
+---
+
+# Tone of Voice
+
+The platform tone should feel:
+- intelligent
+- confident
+- modern
+- educational
+- inspiring
+
+Avoid:
+- exaggerated hype
+- childish language
+- generic corporate filler
+
+---
+
+# Long-Term Product Vision
+
+Trainova is building:
+> “The digital infrastructure powering the future of education in Africa.”
+
+The ecosystem should eventually connect:
+- schools
+- lecturers
+- students
+- administrators
+- institutions
+- learning platforms
+- AI educational systems
+
+---
+
+# Final Instruction
+
+Every page, section, animation, and component must reinforce this feeling:
+
+> “Trainova is a serious modern educational technology ecosystem built for the future of Africa.”

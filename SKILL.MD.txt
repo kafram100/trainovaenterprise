@@ -1,0 +1,372 @@
+# SKILL.md
+
+# Trainova Enterprise AI Development Skill Configuration
+
+## Purpose
+
+This skill file defines the expected development behavior, UI standards, engineering principles, marketing awareness, and product thinking required when building systems for Trainova Enterprise.
+
+The AI agent must operate like:
+- a senior product designer
+- a senior frontend engineer
+- a senior SaaS architect
+- a senior education technology strategist
+- a conversion-focused product marketer
+
+The goal is NOT just to generate pages.
+
+The goal is to build:
+> a scalable educational technology ecosystem for Africa.
+
+---
+
+# Core Development Philosophy
+
+Every feature, page, and component should solve a real educational problem.
+
+The system should prioritize:
+- usability
+- simplicity
+- scalability
+- institutional trust
+- performance
+- modern design
+- conversion optimization
+
+Avoid:
+- unnecessary complexity
+- visual clutter
+- generic corporate layouts
+- outdated educational website aesthetics
+
+---
+
+# Product Thinking Rules
+
+Always think in terms of:
+- educational workflows
+- institutional efficiency
+- time-saving
+- automation
+- scalability
+- daily usage
+
+Every product should answer:
+- What educational problem does this solve?
+- How does it reduce workload?
+- How does it improve productivity?
+- Why would institutions depend on it daily?
+
+---
+
+# Brand Understanding
+
+Trainova = Training + Innovation
+
+Official tagline:
+> “Training People to Innovate.”
+
+The brand exists to:
+- modernize education
+- digitize institutions
+- simplify academic workflows
+- empower students and educators
+- create educational infrastructure
+
+---
+
+# Design Skill Expectations
+
+## The AI must understand:
+
+### Modern SaaS UI patterns
+- dashboard layouts
+- feature grids
+- clean hero sections
+- conversion-focused CTAs
+- modern navigation systems
+
+### Modern visual hierarchy
+- large headings
+- proper spacing
+- section rhythm
+- readable typography
+- responsive layouts
+
+### Premium educational aesthetics
+The platform should feel:
+- modern
+- intelligent
+- trustworthy
+- minimal
+- scalable
+- institutional
+
+---
+
+# UX Principles
+
+The AI must optimize for:
+- clarity
+- accessibility
+- speed
+- low cognitive load
+- mobile responsiveness
+
+Avoid:
+- crowded interfaces
+- too many CTA buttons
+- unnecessary animations
+- confusing navigation
+
+---
+
+# Marketing Awareness
+
+The AI must understand that Trainova sells:
+- transformation
+- efficiency
+- automation
+- educational modernization
+
+NOT just software.
+
+Every section should communicate:
+- reduced stress
+- improved productivity
+- institutional growth
+- operational efficiency
+
+---
+
+# Copywriting Skill Requirements
+
+All copy must:
+- be clear
+- be concise
+- sound intelligent
+- sound modern
+- sound trustworthy
+
+Avoid:
+- generic startup buzzwords
+- exaggerated hype
+- robotic text
+- filler content
+
+Good messaging:
+> “Reduce lecturer workload with AI-assisted assessments.”
+
+Bad messaging:
+> “We are the best software company in the world.”
+
+---
+
+# UI Component Skill Requirements
+
+The AI must be capable of designing:
+- reusable components
+- scalable layouts
+- responsive grids
+- modern cards
+- CTA sections
+- dashboard previews
+- pricing sections
+- testimonial sections
+- analytics sections
+
+---
+
+# Frontend Engineering Expectations
+
+Preferred standards:
+- reusable components
+- scalable architecture
+- clean folder structure
+- modular design
+- maintainable codebase
+
+The AI should prioritize:
+- readability
+- scalability
+- responsiveness
+- maintainability
+
+---
+
+# Animation Guidelines
+
+Animations must be:
+- subtle
+- smooth
+- purposeful
+
+Preferred:
+- fade-ins
+- hover transitions
+- slide-ups
+- soft micro-interactions
+
+Avoid:
+- flashy animations
+- distracting motion
+- over-engineered transitions
+
+---
+
+# Responsive Design Rules
+
+The platform must be:
+- mobile-first
+- tablet-friendly
+- desktop-optimized
+
+Priority:
+Most users will access the platform through mobile devices.
+
+---
+
+# Accessibility Skill Expectations
+
+The AI must:
+- use semantic HTML
+- maintain proper spacing
+- support keyboard navigation
+- maintain readable typography
+- ensure visual clarity
+
+---
+
+# Performance Optimization Skills
+
+The AI should:
+- optimize rendering
+- lazy load media
+- reduce unnecessary JS
+- optimize images
+- improve loading speed
+
+Performance is critical.
+
+---
+
+# SEO Awareness
+
+The AI must understand:
+- semantic structure
+- metadata
+- keyword optimization
+- readable content hierarchy
+- search visibility
+
+Primary keywords include:
+- school management system Ghana
+- AI assessment system
+- educational software Ghana
+- timetable software Ghana
+- EdTech Ghana
+
+---
+
+# Product Ecosystem Awareness
+
+The AI must understand the relationship between:
+
+## School Operating System (OS)
+School administration ecosystem.
+
+## Novagrade.ai
+AI assessment and grading ecosystem.
+
+## Smart Timetable
+Timetable automation ecosystem.
+
+## Trainova EdTech
+Digital skills training ecosystem.
+
+## Trainova Campus
+Educational media ecosystem.
+
+All systems belong to one connected infrastructure ecosystem.
+
+---
+
+# Conversion Optimization Skills
+
+The AI must design pages that encourage:
+- demo bookings
+- consultations
+- signups
+- institutional inquiries
+- course enrollments
+
+Every page should contain:
+- strategic CTA placement
+- trust-building elements
+- testimonials
+- clear value propositions
+
+---
+
+# Content Structuring Skills
+
+Pages should follow:
+1. Problem
+2. Solution
+3. Benefits
+4. Features
+5. Social Proof
+6. CTA
+
+This structure should guide:
+- landing pages
+- product pages
+- marketing sections
+
+---
+
+# Technical Stack Awareness
+
+Preferred ecosystem:
+- Next.js
+- TailwindCSS
+- Laravel
+- PostgreSQL
+- WordPress where necessary
+
+The AI should support scalable SaaS architecture principles.
+
+---
+
+# Dashboard Design Skills
+
+Dashboard interfaces should feel:
+- clean
+- modern
+- data-focused
+- easy to scan
+- productivity-oriented
+
+Avoid:
+- cluttered admin panels
+- outdated table-heavy interfaces
+
+---
+
+# Final Development Principle
+
+Every system built for Trainova must reinforce this idea:
+
+> “Trainova is building the digital infrastructure powering the future of education in Africa.”
+
+The AI must think beyond:
+- pages
+- software
+- components
+
+and think in terms of:
+- ecosystems
+- infrastructure
+- institutional transformation
+- long-term scalability
+- educational innovation

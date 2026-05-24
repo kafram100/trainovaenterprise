@@ -1,0 +1,116 @@
+:root {
+  /* Key brand colors */
+  --key-primary: hsl(176, 83%, 34%);
+  --key-secondary: hsl(38, 92%, 50%);
+  --key-tertiary: hsl(199, 86%, 26%);
+
+  /* Primary palette (teal) */
+  --primary-0: hsl(0, 0%, 0%);
+  --primary-10: hsl(174, 100%, 6%);
+  --primary-20: hsl(176, 100%, 11%);
+  --primary-30: hsl(176, 100%, 16%);
+  --primary-40: hsl(176, 100%, 21%);
+  --primary-50: hsl(176, 100%, 26%);
+  --primary-60: hsl(176, 75%, 36%);
+  --primary-70: hsl(175, 48%, 50%);
+  --primary-80: hsl(174, 61%, 62%);
+  --primary-90: hsl(174, 87%, 74%);
+  --primary-95: hsl(173, 100%, 85%);
+  --primary-98: hsl(169, 100%, 95%);
+  --primary-100: hsl(0, 0%, 100%);
+
+  /* Secondary palette (orange) */
+  --secondary-0: hsl(0, 0%, 0%);
+  --secondary-10: hsl(33, 100%, 8%);
+  --secondary-20: hsl(36, 100%, 14%);
+  --secondary-30: hsl(37, 100%, 20%);
+  --secondary-40: hsl(38, 100%, 26%);
+  --secondary-50: hsl(38, 100%, 33%);
+  --secondary-60: hsl(39, 100%, 39%);
+  --secondary-70: hsl(39, 100%, 46%);
+  --secondary-80: hsl(34, 100%, 68%);
+  --secondary-90: hsl(32, 100%, 86%);
+  --secondary-95: hsl(29, 100%, 94%);
+  --secondary-98: hsl(22, 100%, 98%);
+  --secondary-100: hsl(0, 0%, 100%);
+
+  /* Tertiary palette (blue) */
+  --tertiary-0: hsl(0, 0%, 0%);
+  --tertiary-10: hsl(201, 100%, 9%);
+  --tertiary-20: hsl(199, 100%, 15%);
+  --tertiary-30: hsl(198, 100%, 21%);
+  --tertiary-40: hsl(201, 61%, 33%);
+  --tertiary-50: hsl(203, 44%, 44%);
+  --tertiary-60: hsl(204, 43%, 55%);
+  --tertiary-70: hsl(204, 57%, 66%);
+  --tertiary-80: hsl(205, 86%, 77%);
+  --tertiary-90: hsl(207, 100%, 89%);
+  --tertiary-95: hsl(210, 100%, 95%);
+  --tertiary-98: hsl(213, 100%, 98%);
+  --tertiary-100: hsl(0, 0%, 100%);
+
+  /* Neutral palette */
+  --neutral-0: hsl(0, 0%, 0%);
+  --neutral-10: hsl(180, 4%, 11%);
+  --neutral-20: hsl(180, 2%, 19%);
+  --neutral-30: hsl(180, 1%, 28%);
+  --neutral-40: hsl(210, 1%, 37%);
+  --neutral-50: hsl(180, 0%, 46%);
+  --neutral-60: hsl(180, 0%, 57%);
+  --neutral-70: hsl(0, 0%, 67%);
+  --neutral-80: hsl(0, 0%, 78%);
+  --neutral-87: hsl(0, 0%, 85%);
+  --neutral-90: hsl(0, 2%, 89%);
+  --neutral-92: hsl(0, 2%, 91%);
+  --neutral-94: hsl(60, 3%, 93%);
+  --neutral-95: hsl(0, 3%, 94%);
+  --neutral-96: hsl(0, 4%, 95%);
+  --neutral-98: hsl(0, 9%, 98%);
+  --neutral-99: hsl(0, 20%, 99%);
+  --neutral-100: hsl(0, 0%, 100%);
+
+  /* Light mode semantic roles */
+  --color-primary: var(--key-primary);
+  --color-on-primary: var(--primary-100);
+  --color-primary-container: var(--primary-80);
+  --color-on-primary-container: var(--primary-30);
+  --color-secondary: var(--secondary-40);
+  --color-on-secondary: var(--secondary-100);
+  --color-secondary-container: var(--secondary-80);
+  --color-on-secondary-container: var(--secondary-30);
+  --color-tertiary: var(--tertiary-40);
+  --color-on-tertiary: var(--tertiary-100);
+  --color-tertiary-container: var(--tertiary-80);
+  --color-on-tertiary-container: var(--tertiary-30);
+  --color-background: var(--neutral-98);
+  --color-on-background: var(--neutral-10);
+  --color-surface: var(--neutral-98);
+  --color-on-surface: var(--neutral-10);
+  --color-surface-variant: var(--neutral-94);
+  --color-on-surface-variant: var(--neutral-30);
+  --color-outline: var(--neutral-50);
+  --color-outline-variant: var(--neutral-80);
+}
+
+[data-theme="dark"] {
+  --color-primary: var(--key-primary);
+  --color-on-primary: var(--primary-20);
+  --color-primary-container: var(--primary-30);
+  --color-on-primary-container: var(--primary-90);
+  --color-secondary: var(--secondary-80);
+  --color-on-secondary: var(--secondary-20);
+  --color-secondary-container: var(--secondary-30);
+  --color-on-secondary-container: var(--secondary-90);
+  --color-tertiary: var(--tertiary-80);
+  --color-on-tertiary: var(--tertiary-20);
+  --color-tertiary-container: var(--tertiary-30);
+  --color-on-tertiary-container: var(--tertiary-90);
+  --color-background: var(--neutral-10);
+  --color-on-background: var(--neutral-90);
+  --color-surface: var(--neutral-10);
+  --color-on-surface: var(--neutral-90);
+  --color-surface-variant: var(--neutral-30);
+  --color-on-surface-variant: var(--neutral-80);
+  --color-outline: var(--neutral-60);
+  --color-outline-variant: var(--neutral-30);
+}
